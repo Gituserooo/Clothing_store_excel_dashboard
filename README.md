@@ -20,7 +20,7 @@ This project analyzes clothing store sales data using Microsoft Excel to identif
 
 The Excel dashboard provides an interactive overview of clothing store sales performance through charts, KPIs, and filters.
 
-![Clothing Store Dashboard](https://github.com/Gituserooo/Clothing_store_excel_dashboard/blob/main/Screenshot%202026-09-28%20223424.png)
+![Clothing Store Dashboard](https://github.com/Gituserooo/Clothing_store_excel_dashboard/blob/main/dashboard.png.png)
 
 ## Analysis
 
